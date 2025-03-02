@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RhizoSphere
-- 👀 I’m interested in ag-science, security, privacy, automation, hydroponics, aquaponics, and infographics
-- 🌱 I’m currently learning botany, python, data visualization
-- 💞️ I’m looking to collaborate on the pHarmour project 
+- 👀 I’m interested in ag-science, security, privacy, automation, hydroponics, aquaponics, decentralization, geospatial awareness, TAK, and data analysis
+- 🌱 I’m currently learning Arduino, C/C++, Debian, and TAK (of course)
+- 💞️ I’m looking to collaborate on TAK and Ag-Tech, specifically the @Grow-Dojo [automation project](https://github.com/Grow-Dojo)
 - 📫 How to reach me rhizosphere@protonmail.com
 
 <!---
