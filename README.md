@@ -6,7 +6,8 @@
 <!--- change to icon/links --->
 - 💞️ I’m looking to collaborate on TAK and Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> ag-tech automation project 
 <!--- replace with pictures --->
-- 📫 How to reach me rhizosphere@protonmail.com
+- 📫 EMail:
+dSEC_0x00@protonmail.com
 <!--- live comm apps --->
 
 <!--- Socials Media Links --->
