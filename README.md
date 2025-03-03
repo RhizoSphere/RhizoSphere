@@ -1,9 +1,10 @@
 <img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/Dev/4edb6c47f0850f4f85d344c0ee46ff2b.jpg">
 <h1 align="center">RHIZOSPHERE</h1>
+
 - 👀 I’m interested in ag-science, security, privacy, automation, hydroponics, aquaponics, decentralization, geospatial awareness, TAK, and data analysis
 - 🌱 I’m currently learning Arduino, C/C++, Debian, and TAK (of course)
 <!--- change to icon/links --->
-- 💞️ I’m looking to collaborate on TAK and Ag-Tech, specifically the @Grow-Dojo [automation project](https://github.com/Grow-Dojo)
+- 💞️ I’m looking to collaborate on TAK and Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> ag-tech automation project 
 <!--- replace with pictures --->
 - 📫 How to reach me rhizosphere@protonmail.com
 <!--- live comm apps --->
