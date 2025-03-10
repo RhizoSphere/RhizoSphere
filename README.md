@@ -1,20 +1,45 @@
 <img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/Dev/4edb6c47f0850f4f85d344c0ee46ff2b.jpg">
 <h1 align="center">RHIZOSPHERE</h1>
 
-- 👀 I’m interested in ag-science, security, privacy, automation, hydroponics, aquaponics, decentralization, geospatial awareness, TAK, and data analysis
-- 🌱 I’m currently learning Arduino, C/C++, Debian, and TAK (of course)
-<!--- change to icon/links --->
-- 💞️ I’m looking to collaborate on TAK and Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> ag-tech automation project 
-<!--- replace with pictures --->
-- 📫 How to reach me rhizosphere@protonmail.com
-<!--- live comm apps --->
+## INTERESTS
+- Agriculture Science
+- Information Security
+- Personal Privacy
+- Automation
+- Horticulture in all forms
+- Decentralization
+- Web 3.0
+- Geospatial Awarness
+- TAK software suite
+- Data Analysia
+- Data Visualization
+- UI/UX
 
+## CURRENTLY STUDYING 
+- Arduino
+- C/C++
+- Linux (Debian based)
+- TAK
+- Basic electronics
+- CS50
+<!--- change to icon/links above--->
+
+## COLLABORATION 
+- Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> automation project 
+- TAK projects
+- Freedom Tech
+- Security, Privacy, and Anonymity
+<!--- replace with pictures/banners/photo collage --->
+## CONTACT
+dSEC_0x00@protonmail.com
+<!--- LINK TO LIVE comm apps --->
+## ELSEWHERE ON THE INTERNET
 <!--- Socials Media Links --->
 <h3 align="left">Social Media</h3>
 <p align="left">
 <a href="https://www.x.com/Rhiz0sphere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter/X" height="30" width="40" /></a><a href="https://www.instagram.com/rhizo.sphere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<!--- add nostr, Mastodon, good reads, threads, dev.io, and otheres --->
 <!--- Language and Tools --->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -22,9 +47,21 @@
 <!---
 <a href="   " target="_blank"> <img src="   " alt="   " width="40" height="40"/> </a> --->
 
-<!--- add TAK,gimpSHOP logo --->
-<!--- comrade logo/links --->
-<!--- Links for learning material --->
+<!--- add TAK,gimpSHOP, XMPP, nostr protocol, LoRa logo --->
+
+<!--- comrade logo/links expanded form of growdojo comrades --->
+
+<!--- Link to growdojo learning reaources learning material
+## REAL-TIME COMMS
+- SESSION
+- SIMPLEXCHAT
+- SIGNAL
+- WIRE
+- BRIAR
+- ELEMENT
+- IRC
+- XMPP --->
+
 
 
 <!--- Github Stat Catd --->
