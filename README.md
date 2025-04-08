@@ -1,6 +1,8 @@
 <img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/Dev/4edb6c47f0850f4f85d344c0ee46ff2b.jpg">
 <h1 align="center">RHIZOSPHERE</h1>
 
+## CURRENTLY JOINING THE GITHUB DISPORA - MIGRATING TO NEW PLATFORM. WILL STILL MAINTAIN SOME REPOS HERE.
+
 ## INTERESTS
 - Agriculture Science
 - Information Security
