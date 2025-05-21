@@ -16,6 +16,7 @@
 - Data Analysia
 - Data Visualization
 - UI/UX
+- Nostr
 
 ## CURRENTLY STUDYING 
 - Arduino
