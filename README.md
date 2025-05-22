@@ -50,7 +50,7 @@ dSEC_0x00@protonmail.com
 <!---
 <a href="   " target="_blank"> <img src="   " alt="   " width="40" height="40"/> </a> --->
 
-<!--- add TAK,gimpSHOP, XMPP, nostr protocol, LoRa logo --->
+<!--- add TAK, gimpSHOP, XMPP, nostr protocol, BaSH, Reticulum, meshtastic, LoRa logo --->
 
 <!--- comrade logo/links expanded form of growdojo comrades --->
 
