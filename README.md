@@ -31,7 +31,9 @@
 - Security, Privacy, and Anonymity
 <!--- replace with pictures/banners/photo collage --->
 ## CONTACT
-dSEC_0x00@protonmail.com
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Element_%28software%29_logo.svg" alt="Element" height="40" width="40" /> <img src="https://simplex.chat/img/new/logo-symbol-light.svg" alt="simplex chat" height="40" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Session_App_Logo.svg/250px-Session_App_Logo.svg.png" alt="session" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" alt="keybase" height="40" width="40" />
 <!--- LINK TO LIVE comm apps --->
 ## ELSEWHERE ON THE INTERNET
 <!--- Socials Media Links --->
