@@ -39,7 +39,7 @@
 <!--- Socials Media Links --->
 <h3 align="left">Social Media</h3>
 <p align="left">
-<a href="https://www.x.com/Rhiz0sphere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter/X" height="40" width="40" /></a> <a href="https://www.instagram.com/rhizo.sphere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.x.com/Rhiz0sphere/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter/X" height="40" width="40" /></a> <a href="https://www.instagram.com/rhizo.sphere/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" alt="Instagram Profile" height="40" width="40" /></a>
  <a href="https://stacker.news/r/Nostr_Archives" target="blank"><img align="center" src="https://image.nostr.build/fd046abf34f735dd6048c044c3c3729b3547e8cb482b32ec13a6381e7ed766f4.jpg" alt="stacker news" height="40" width="40" /></a> <a href="https://www.goodreads.com/rhizosphere" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Goodreads_%27g%27_logo.svg/250px-Goodreads_%27g%27_logo.svg.png" alt="goodreads profile" height="40" width="40" /></a></p>
 <!--- add nostr, Mastodon, good reads, threads, dev.io, and otheres --->
 <!--- Language and Tools --->
