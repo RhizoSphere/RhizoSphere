@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/Dev/4edb6c47f0850f4f85d344c0ee46ff2b.jpg">
+<img align="center" src="https://raw.githubusercontent.com/RhizoSphere/RhizoSphere/refs/heads/dev-alpha/img/rhizome-header-one.png">
 <h1 align="center">RHIZOSPHERE</h1>
 
 ## INTERESTS
