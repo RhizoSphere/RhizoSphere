@@ -1,19 +1,13 @@
-<img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/Dev/4edb6c47f0850f4f85d344c0ee46ff2b.jpg">
+<img align="center" src="https://raw.githubusercontent.com/RhizoSphere/RhizoSphere/refs/heads/dev-alpha/img/rhizome-header-one.png">
 <h1 align="center">RHIZOSPHERE</h1>
 
 ## INTERESTS
-- Agriculture Science
-- Information Security
-- Personal Privacy
-- Automation
-- Horticulture in all forms
-- Decentralization
-- Web 3.0
+- Agriculture Science // Automation // Horticulture 
+- Information Security // Privacy // Decentralization
 - TAK
-- Data Analysia
 - Data Visualization
 - UI/UX
-- Nostr
+- Nostr 
 
 ## CURRENTLY STUDYING 
 - Arduino
@@ -28,7 +22,7 @@
 - Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> automation project 
 - TAK projects
 - Freedom Tech
-- Security, Privacy, and Anonymity
+- Nostr Based Projects
 <!--- replace with pictures/banners/photo collage --->
 ## CONTACT
 
