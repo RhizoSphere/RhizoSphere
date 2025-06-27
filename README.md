@@ -7,16 +7,33 @@
 - TAK
 - Data Visualization
 - UI/UX
-- Nostr 
+- The Noatr Protocol <!-- add link and icon -->
+## STUDIES AND PRACTICE
+### CURRENTLY STUDYING 
+<p align="center"> 
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.debian.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/250px-Openlogo-debianV2.svg.png" alt="debian" width="32" height="40"/></a> <a href="https://www.github.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" alt="github" width="40" height="40"/></a>
 
-## CURRENTLY STUDYING 
-- Arduino
-- C/C++
-- Linux (Debian based)
+</p>
+
 - TAK
 - Basic electronics
 - CS50
-<!--- change to icon/links above--->
+
+
+### TO STUDY (EVENTUALLY)
+<p align="center"> 
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+
+- Raspberry Pi
+- Python
+- MicroPython
+- Forge
+
+  
+##### TODO
+Links and icons/imgs
+
 
 ## COLLABORATION 
 - Ag-Tech, specifically the <a href="https://github.com/Grow-Dojo">@Grow-Dojo</a> automation project 
@@ -40,9 +57,12 @@
 
 ## LANGUAGES AND TOOLS:
 <p align="center"> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.tak.gov" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/ATAK_Civilian_Logo.png" alt="TAK suite" width="40" height="40"/></a> </p>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.tak.gov" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/ATAK_Civilian_Logo.png" alt="TAK suite" width="40" height="40"/></a> <a href="https://www.drawio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/250px-Diagrams.net_Logo.svg.png" alt="draw.io" width="40" height="40"/> </a> </p>
+
+
 <!---
-<a href="   " target="_blank"> <img src="   " alt="   " width="40" height="40"/> </a> --->
+<a href="   " target="_blank"> <img src="   " alt="   " width="40" height="40"/></a>
+--->
 
 <!--- add TAK, gimpSHOP, XMPP, nostr protocol, BaSH, Reticulum, meshtastic, LoRa logo --->
 
