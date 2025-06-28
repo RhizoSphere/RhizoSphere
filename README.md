@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/RhizoSphere/RhizoSphere/refs/heads/dev-alpha/img/rhizome-header-one.png">
+<img align="center" src="https://github.com/RhizoSphere/RhizoSphere/blob/main/img/rhizome-header-one.png">
 <h1 align="center">RHIZOSPHERE</h1>
 
 ## INTERESTS
@@ -7,7 +7,7 @@
 - TAK
 - Data Visualization
 - UI/UX
-- The Noatr Protocol <!-- add link and icon -->
+- The Nostr Protocol <!-- add link and icon -->
 ## STUDIES AND PRACTICE
 ### CURRENTLY STUDYING 
 <p align="center"> 
