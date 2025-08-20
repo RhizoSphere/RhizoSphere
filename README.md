@@ -4,7 +4,7 @@
 ## INTERESTS
 - Agriculture Science // Automation // Horticulture 
 - Information Security // Privacy // Decentralization
-- TAK
+- Geospatial Systems/Programs
 - Data Visualization
 - UI/UX
 - The Nostr Protocol <!-- add link and icon -->
